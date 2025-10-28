@@ -24,8 +24,6 @@
 ## 🔥 Streak  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gayatrijhaxreal&theme=dark)](https://git.io/streak-stats)
 
---- 
-
 ## 📌 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrijhaxreal&layout=compact&theme=radical)
 
