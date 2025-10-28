@@ -24,7 +24,7 @@
 ## 🔥 Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gayatrijhaxreal&theme=dark)
 
----
+--- 
 
 ## 📌 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrijhaxreal&layout=compact&theme=radical)
