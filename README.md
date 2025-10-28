@@ -22,7 +22,7 @@
 ---
 
 ## 🔥 Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gayatrijhaxreal&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gayatrijhaxreal&theme=dark)](https://git.io/streak-stats)
 
 --- 
 
