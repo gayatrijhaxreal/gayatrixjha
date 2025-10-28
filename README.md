@@ -17,7 +17,7 @@
 ---
 
 ## 📊 GitHub Stats  
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=gayatrijhaxreal&theme=dark)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gayatrijhaxreal&show_icons=true&theme=radical)
 
 ---
 
