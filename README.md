@@ -30,7 +30,7 @@
 ---
 
 ### 🔥 Streak Stats
-
+![](https://nirzak-streak-stats.vercel.app/?user=shifa-23&theme=vision-friendly-dark&hide_border=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gayatrijhaxreal&theme=dark)](https://git.io/streak-stats)
 
 ---
