@@ -30,7 +30,7 @@
 ---
 
 ### 🔥 Streak Stats
-![](https://nirzak-streak-stats.vercel.app/?user=a&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gayatrixjhareal&theme=vision-friendly-dark&hide_border=true)<br/>
 
 
 ---
