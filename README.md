@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Gayatri
 
+
 🎓 BCA Student  
 🌱 Currently learning: Python  
 🚀 Passionate about coding, automation & open-source  
