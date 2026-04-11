@@ -28,8 +28,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayatrijhaxreal&show_icons=true&theme=radical )
+![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayatrijhaxreal&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
